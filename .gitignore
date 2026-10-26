@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 .DS_Store
 __pycache__/
 *.pyc
 .vscode/
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -222,4 +220,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
->>>>>>> 8e19bfb7053c6bed5981cb909da8bf5066a2f7c8
